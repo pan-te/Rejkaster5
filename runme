@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 rejkaster.py $1 $2
